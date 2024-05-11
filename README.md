@@ -3,7 +3,7 @@ EcoSphere Networks - Enterprise solution
 
 ___
 
-#SmoliToken #Smolit #EcoSphere-Networks #
+#EcoSphere-Networks
 
 ___
 
