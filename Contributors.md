@@ -2,8 +2,9 @@
 
 - [ ] 1. Manager -> Fabi?
   - Aufgaben:
-    - [ ] Investoren Management
-    - [ ] Finanz Management
+    - [ ] Investoren 
+    - [ ] Marketing 
+    - [ ] Social Median Kontent
     - [ ] ...
 
 - [ ] 2. more Contributors ...
