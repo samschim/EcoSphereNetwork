@@ -1,3 +1,6 @@
 [submodule "EcoSphere-Networks NFT Collection/EcoSphere-Networks_tokenwebsite_template"]
     path = EcoSphere-Networks NFT Collection/EcoSphere-Networks_tokenwebsite_template
     url = https://github.com/EcoSphereNetwork/EcoSphere-Networks_tokenwebsite_template.git
+[submodule "Smallet"]
+	path = Smallet
+	url = NFT
