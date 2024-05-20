@@ -4,3 +4,6 @@
 [submodule "Smallet"]
 	path = Smallet
 	url = NFT
+[submodule "Smolitux-Suite"]
+	path = Smolitux-Suite
+	url = NFT
