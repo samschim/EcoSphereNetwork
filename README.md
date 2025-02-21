@@ -38,11 +38,9 @@ Die Serverfarmen sind bewusst **klein und dezentralisiert**. Ihre Größe richte
 - **Smolitux OS und Smolit-Assistant**: Ein erweitertes Linux-basiertes Betriebssystem mit integriertem KI-Assistenten, der Aufgaben wie Hardware- und Netzwerküberwachung sowie Lastverteilung übernimmt. Dieses System zielt darauf ab, ein KI-optimiertes Linux-Betriebssystem bereitzustellen, das verschiedene Open-Source-Softwarekomponenten integriert und kontinuierlich mit neuen Tools sowie aktuellen Entwicklungen in den Bereichen KI und Blockchain erweitert wird.
 - **SmoliTradeOS und SmoliTrade-App**: Plattformen für den Handel, die sowohl Betriebssystem- als auch App-Lösungen bieten. Diese Tools sind darauf ausgelegt, den Handel zu optimieren und Benutzern eine nahtlose Erfahrung zu bieten.
 - **ESN_Token**: Ein Blockchain-basiertes Token, das innerhalb des EcoSphere Networks-Ökosystems verwendet wird. Es ermöglicht Transaktionen und dient als Anreizmechanismus für Teilnehmer.
-- **EcoTechFarms**: Dieses Projekt kombiniert ökologische Landwirtschaft, erneuerbare Energieerzeugung und Rechenzentren. Ziel ist es, nachhaltige Serverfarmen zu schaffen, die den ökologischen Fußabdruck reduzieren.
 - **Smolitux-Suite**: Eine Sammlung von Softwarelösungen, die verschiedene Anwendungen und Tools umfasst, um den täglichen Bedarf von Benutzern zu decken.
 - **Smolit_LLM-NN**: Ein Projekt, das sich auf die Entwicklung von großen Sprachmodellen und neuronalen Netzen konzentriert, um die KI-Fähigkeiten innerhalb des Ökosystems zu erweitern.
 - **CyberSpace und NovaProtocol**: Projekte, die darauf abzielen, das Metaverse auszubauen und neue Protokolle für die Interaktion in virtuellen Räumen zu entwickeln.
-- **Agent-Setup_Reflexia und Agent-Setup_GitHelper**: Tools zur autonomen Generierung von Dokumentationen und zur Unterstützung bei der Verwaltung von GitHub-Repositories mithilfe von KI.
 
 Durch die Integration dieser vielfältigen Softwareprodukte in das bestehende Ökosystem stärkt **EcoSphere Networks** seine Position als Vorreiter in den Bereichen nachhaltige Technologie, dezentrale Infrastruktur und Open-Source-Entwicklung. Diese Projekte fördern nicht nur die technologische Innovation, sondern tragen auch zur Schaffung eines integrativen und nachhaltigen digitalen Raums bei.
 
